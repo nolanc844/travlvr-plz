@@ -78,8 +78,6 @@ function nextMonument1() {
    console.log("why does this not work")
 }
 
-÷
-
 function placeToHome(){
     var backgroundChange = document.getElementById("background");
     backgroundChange.setAttribute("src", "");
